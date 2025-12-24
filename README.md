@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
   
-  <h1 align="center">Hi Everyone! Nice to see you here. I'm, Neyza Maylanie Santosa</h1>
+  <h1 align="center">Hi, Everyone! Nice to see you here. I'm, Neyza Maylanie Santosa</h1>
   <h3 align="center">Fullstack Developer | Native Web & Enterprise Enthusiast</h3>
 
   <p align="center">
@@ -46,8 +46,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neyzamaylanies&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyzamaylanies&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
