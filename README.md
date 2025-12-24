@@ -11,7 +11,7 @@
     <a href="mailto:neyzamayylanies@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://neyzamaylanies.github.io/portfolio-neyza/">
+    <a href="https://neyza-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Web-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
