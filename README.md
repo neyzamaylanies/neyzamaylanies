@@ -23,7 +23,7 @@
 
 * 🎓 I'm currently a **Final-year Student** at **CEP-CCIT FTUI** (Faculty of Engineering, Universitas Indonesia).
 * 🔭 I’m currently working on **Full Stack Developer and Loves Native Web Architectures**.
-* 🌱 I’m deeply exploring **Android Development Using Flutter & Dart** mechanisms.
+* 🌱 I’m deeply exploring **Software Quality Assurance with Automation testing** mechanisms.
 * 🎨 I love designing user interfaces in **Figma**.
 * ⚡ Fun fact: I prefer building things from scratch (Native) to understand the core logic!
 
