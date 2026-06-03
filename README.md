@@ -61,14 +61,16 @@ I'm a final-year IT student at **CEP-CCIT FTUI (Universitas Indonesia)** with a 
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neyzamaylanies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyzamaylanies&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+[![neyzamaylanies's github stats](https://github-readme-stats.vercel.app/api?username=neyzamaylanies&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/neyzamaylanies)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyzamaylanies&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/neyzamaylanies)
+ 
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=neyzamaylanies&theme=tokyonight&hide_border=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=neyzamaylanies&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+ 
 </div>
 
 ---
