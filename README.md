@@ -60,21 +60,6 @@ I'm a final-year IT student at **CEP-CCIT FTUI (Universitas Indonesia)** with a 
 
 ---
 
-## 📊 GitHub Stats
- 
-<div align="center">
-[![neyzamaylanies's github stats](https://github-readme-stats.vercel.app/api?username=neyzamaylanies&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/neyzamaylanies)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyzamaylanies&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/neyzamaylanies)
- 
-</div>
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=neyzamaylanies&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
- 
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
 </div>
